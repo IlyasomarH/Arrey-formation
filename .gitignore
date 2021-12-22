@@ -1,0 +1,12 @@
+
+# ignorer tout les fichiers qui ont comme extension .txt
+*.txt
+
+# ignorer le fichier excel.xlsx
+excel.xlsx
+
+
+# ignorer tout ce qui se trouvent dans le dossier log
+log/* 
+
+

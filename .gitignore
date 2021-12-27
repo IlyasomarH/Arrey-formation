@@ -8,5 +8,8 @@ excel.xlsx
 
 # ignorer tout ce qui se trouvent dans le dossier log
 log/* 
+image/*
+exo1/*
+couleur.html
 
 
